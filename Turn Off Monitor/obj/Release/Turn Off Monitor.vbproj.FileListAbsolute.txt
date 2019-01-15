@@ -1,0 +1,10 @@
+E:\odrive\GS1\Hung\Work\VB Project\Turn Off Monitor\Turn Off Monitor\bin\Release\Turn Off Monitor.exe.config
+E:\odrive\GS1\Hung\Work\VB Project\Turn Off Monitor\Turn Off Monitor\bin\Release\Turn Off Monitor.exe
+E:\odrive\GS1\Hung\Work\VB Project\Turn Off Monitor\Turn Off Monitor\bin\Release\Turn Off Monitor.pdb
+E:\odrive\GS1\Hung\Work\VB Project\Turn Off Monitor\Turn Off Monitor\obj\Release\Turn Off Monitor.vbprojResolveAssemblyReference.cache
+E:\odrive\GS1\Hung\Work\VB Project\Turn Off Monitor\Turn Off Monitor\obj\Release\Turn_Off_Monitor.Main.resources
+E:\odrive\GS1\Hung\Work\VB Project\Turn Off Monitor\Turn Off Monitor\obj\Release\Turn_Off_Monitor.Resources.resources
+E:\odrive\GS1\Hung\Work\VB Project\Turn Off Monitor\Turn Off Monitor\obj\Release\Turn Off Monitor.vbproj.GenerateResource.cache
+E:\odrive\GS1\Hung\Work\VB Project\Turn Off Monitor\Turn Off Monitor\obj\Release\Turn Off Monitor.vbproj.CoreCompileInputs.cache
+E:\odrive\GS1\Hung\Work\VB Project\Turn Off Monitor\Turn Off Monitor\obj\Release\Turn Off Monitor.exe
+E:\odrive\GS1\Hung\Work\VB Project\Turn Off Monitor\Turn Off Monitor\obj\Release\Turn Off Monitor.pdb

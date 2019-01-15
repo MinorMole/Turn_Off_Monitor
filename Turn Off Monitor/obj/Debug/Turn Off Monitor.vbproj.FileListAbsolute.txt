@@ -1,0 +1,24 @@
+C:\Users\Lynne\AppData\Local\Temporary Projects\Turn Off Monitor\bin\Debug\Turn Off Monitor.exe.config
+C:\Users\Lynne\AppData\Local\Temporary Projects\Turn Off Monitor\bin\Debug\Turn Off Monitor.exe
+C:\Users\Lynne\AppData\Local\Temporary Projects\Turn Off Monitor\bin\Debug\Turn Off Monitor.pdb
+C:\Users\Lynne\AppData\Local\Temporary Projects\Turn Off Monitor\bin\Debug\Turn Off Monitor.xml
+C:\Users\Lynne\AppData\Local\Temporary Projects\Turn Off Monitor\obj\Debug\Turn Off Monitor.vbprojResolveAssemblyReference.cache
+C:\Users\Lynne\AppData\Local\Temporary Projects\Turn Off Monitor\obj\Debug\Turn_Off_Monitor.Main.resources
+C:\Users\Lynne\AppData\Local\Temporary Projects\Turn Off Monitor\obj\Debug\Turn_Off_Monitor.Resources.resources
+C:\Users\Lynne\AppData\Local\Temporary Projects\Turn Off Monitor\obj\Debug\Turn Off Monitor.vbproj.GenerateResource.cache
+C:\Users\Lynne\AppData\Local\Temporary Projects\Turn Off Monitor\obj\Debug\Turn Off Monitor.vbproj.CoreCompileInputs.cache
+C:\Users\Lynne\AppData\Local\Temporary Projects\Turn Off Monitor\obj\Debug\Turn Off Monitor.exe
+C:\Users\Lynne\AppData\Local\Temporary Projects\Turn Off Monitor\obj\Debug\Turn Off Monitor.xml
+C:\Users\Lynne\AppData\Local\Temporary Projects\Turn Off Monitor\obj\Debug\Turn Off Monitor.pdb
+E:\odrive\GS1\Hung\Work\VB Project\Turn Off Monitor\Turn Off Monitor\bin\Debug\Turn Off Monitor.exe.config
+E:\odrive\GS1\Hung\Work\VB Project\Turn Off Monitor\Turn Off Monitor\bin\Debug\Turn Off Monitor.exe
+E:\odrive\GS1\Hung\Work\VB Project\Turn Off Monitor\Turn Off Monitor\bin\Debug\Turn Off Monitor.pdb
+E:\odrive\GS1\Hung\Work\VB Project\Turn Off Monitor\Turn Off Monitor\bin\Debug\Turn Off Monitor.xml
+E:\odrive\GS1\Hung\Work\VB Project\Turn Off Monitor\Turn Off Monitor\obj\Debug\Turn Off Monitor.vbprojResolveAssemblyReference.cache
+E:\odrive\GS1\Hung\Work\VB Project\Turn Off Monitor\Turn Off Monitor\obj\Debug\Turn_Off_Monitor.Main.resources
+E:\odrive\GS1\Hung\Work\VB Project\Turn Off Monitor\Turn Off Monitor\obj\Debug\Turn_Off_Monitor.Resources.resources
+E:\odrive\GS1\Hung\Work\VB Project\Turn Off Monitor\Turn Off Monitor\obj\Debug\Turn Off Monitor.vbproj.GenerateResource.cache
+E:\odrive\GS1\Hung\Work\VB Project\Turn Off Monitor\Turn Off Monitor\obj\Debug\Turn Off Monitor.vbproj.CoreCompileInputs.cache
+E:\odrive\GS1\Hung\Work\VB Project\Turn Off Monitor\Turn Off Monitor\obj\Debug\Turn Off Monitor.exe
+E:\odrive\GS1\Hung\Work\VB Project\Turn Off Monitor\Turn Off Monitor\obj\Debug\Turn Off Monitor.xml
+E:\odrive\GS1\Hung\Work\VB Project\Turn Off Monitor\Turn Off Monitor\obj\Debug\Turn Off Monitor.pdb
