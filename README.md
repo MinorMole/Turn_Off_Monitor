@@ -1,6 +1,6 @@
-[![GitHub Release](https://github-basic-badges.herokuapp.com/release/MinorMole/Brightness_Controller.svg?color=blue&text=Release)](https://github.com/MinorMole/Brightness_Controller/releases)
-[![GitHub Download Count](https://github-basic-badges.herokuapp.com/downloads/MinorMole/Brightness_Controller/total.svg?color=green&text=Download)](https://github.com/MinorMole/Brightness_Controller/releases)
-[![GitHub License](https://github-basic-badges.herokuapp.com/license/MinorMole/Brightness_Controller.svg?color=yellow&text=License)](/LICENSE)
+[![GitHub Release](https://github-basic-badges.herokuapp.com/release/MinorMole/Turn_Off_Monitor.svg?color=blue&text=Release)](https://github.com/MinorMole/Turn_Off_Monitor/releases)
+[![GitHub Download Count](https://github-basic-badges.herokuapp.com/downloads/MinorMole/Turn_Off_Monitor/total.svg?color=green&text=Download)](https://github.com/MinorMole/Turn_Off_Monitor/releases)
+[![GitHub License](https://github-basic-badges.herokuapp.com/license/MinorMole/Turn_Off_Monitor.svg?color=yellow&text=License)](/LICENSE)
 
 ## Introduction
 
@@ -26,7 +26,7 @@ It's work with most of GPU and monitor (even latest 4K monitor) and work well wi
 * Supports with latest Windows 10 and older.
 * Can assign hotkey to change brightness from your keyboard.
 
-## [Download](https://github.com/MinorMole/Brightness_Controller/releases)
+## [Download](https://github.com/MinorMole/Turn_Off_Monitor/releases)
 
 
 
