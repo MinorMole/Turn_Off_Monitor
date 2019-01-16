@@ -19,3 +19,7 @@ Just as the software name said it use to turn off monitor. Based on the VB langu
 ## Note
 
 * It's delay 1 second, so after run turn of your wireless mouse quickly!
+
+## Licence
+
+Licenced under the [MIT License](https://github.com/MinorMole/Turn_Off_Monitor/blob/master/LICENSE).
