@@ -1,6 +1,6 @@
-[![GitHub Release](https://github-basic-badges.herokuapp.com/release/MinorMole/Turn_Off_Monitor.svg?color=blue&text=Release)](https://github.com/MinorMole/Turn_Off_Monitor/releases)
-[![GitHub Download Count](https://github-basic-badges.herokuapp.com/downloads/MinorMole/Turn_Off_Monitor/total.svg?color=green&text=Download)](https://github.com/MinorMole/Turn_Off_Monitor/releases)
-[![GitHub License](https://github-basic-badges.herokuapp.com/license/MinorMole/Turn_Off_Monitor.svg?color=yellow&text=License)](/LICENSE)
+[![GitHub release](https://img.shields.io/github/release/MinorMole/Turn_Off_Monitor.svg)](https://gitHub.com/MinorMole/Turn_Off_Monitor/releases)
+[![Github all releases](https://img.shields.io/github/downloads/MinorMole/Turn_Off_Monitor/total.svg)](https://GitHub.com/MinorMole/Turn_Off_Monitor/releases/)
+[![GitHub license](https://img.shields.io/github/license/MinorMole/Turn_Off_Monitor.svg)](https://github.com/MinorMole/Turn_Off_Monitor/blob/master/LICENSE)
 
 ## Introduction
 
